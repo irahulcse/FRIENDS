@@ -1,4 +1,4 @@
-![Image](images/rovers.jpg)
+![Image](images/rovers.png)
 # Friends Application :boom:
 
 <!-- ![Flutter_Pokemon_App](https://github.com/irahulcse/Flutter_Pokemon_App/.github/workflows/Flutter%20Web/badge.svg?branch=dev) -->
