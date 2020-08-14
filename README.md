@@ -1,21 +1,21 @@
 ![Image](images/rovers.jpg)
-# Flutter Pokemon Application :boom:
+# Friends Application :boom:
 
 <!-- ![Flutter_Pokemon_App](https://github.com/irahulcse/Flutter_Pokemon_App/.github/workflows/Flutter%20Web/badge.svg?branch=dev) -->
 
 Flutter Pokemon Application is a very intutive and nice UI and JSON based Application in this we are basically fetching ther result from the JSON File to create UI. 
 
 ## Unique Features of the Application:
-* [✅]Widgets created for the UI are like as Card, Hero, Animation, Positioned.
+<!-- * [✅]Widgets created for the UI are like as Card, Hero, Animation, Positioned.
 * [✅] Parsed the data using **JSON Decode** which helped to bring the data from the API in the form of List.
 * [✅]Map is an data structure which is used for passing it through the function.
 * [✅] Live Working Project
-* [✅] Widgets used like ListTile, ListView Builder, Center, Text and Circle Avatar Widgets
+* [✅] Widgets used like ListTile, ListView Builder, Center, Text and Circle Avatar Widgets -->
 <!-- * [❌] Everything is static right now, no API integration done on it. -->
   
 ### Screenshots and Working GIFS:
 
-<img src="images/rovers.gif" height="300em"  width="250em"/> <img src="images/1.jpg" height="300em" width="250em"/> <img src="images/2.jpg" height="300em" width="250em"/>
+<!-- <img src="images/rovers.gif" height="300em"  width="250em"/> <img src="images/1.jpg" height="300em" width="250em"/> <img src="images/2.jpg" height="300em" width="250em"/> -->
 
 
  Sorry for the quality of the GIF :pray:
