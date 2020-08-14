@@ -3,7 +3,7 @@
 
 <!-- ![Flutter_Pokemon_App](https://github.com/irahulcse/Flutter_Pokemon_App/.github/workflows/Flutter%20Web/badge.svg?branch=dev) -->
 
-Flutter Pokemon Application is a very intutive and nice UI and JSON based Application in this we are basically fetching ther result from the JSON File to create UI. 
+<!-- Flutter Pokemon Application is a very intutive and nice UI and JSON based Application in this we are basically fetching ther result from the JSON File to create UI.  -->
 
 ## Unique Features of the Application:
 <!-- * [✅]Widgets created for the UI are like as Card, Hero, Animation, Positioned.
@@ -27,7 +27,7 @@ If you had like the project pls hit the star :+1: icon.
 
 The Parent Repository of this project can be found on this [link](https://github.com/irahulcse/A-Complete-Guide-To-Flutter).
 
-# Live Working Project:
+<!-- # Live Working Project:
 
 [Demo Application](https://irahulcse.github.io/Telegram_Ui_Flutter/)
 
@@ -39,12 +39,12 @@ I am currently looking for Full Time/ Internship Offer for any Software Developm
 <a href="https://twitter.com/1rahulchandra1"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
 <a href="https://www.linkedin.com/in/rahul-chandra-a8371b11b/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
 <a href="https://facebook.com"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="60"></a>
-<a href="https://instagram.com/rahulchandra_99"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
+<a href="https://instagram.com/rahulchandra_99"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a> -->
 
 
-### Testing
+<!-- ### Testing
 
-Testing of the Project is Done :heavy_check_mark:
+Testing of the Project is Done :heavy_check_mark: -->
 
 ### Basic Git Workflow/If you want to contribute to this project:
 You can follow the below workflow, if you are new to Git. 
@@ -107,7 +107,7 @@ Please clone and star this repo to stay up to date on changes. If anyone, would 
 
 ## License
 
-Copyright (c) 2020 Rahul Chandra
+Copyright (c) 2020 Rahul Chandra and Sashank Tiwari
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
