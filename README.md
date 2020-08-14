@@ -1,7 +1,7 @@
 
 ![Image](assets/banner.png)
 
-# Complete-Guide-To-Flutter(Mini Apps) :boom:
+# FRIENDS Inc. :boom:
 ![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 ![](https://img.shields.io/github/last-commit/irahulcse/A-Complete-Guide-To-Flutter.svg?label=last%20update&style=flat)
 [![GitHub stars](https://img.shields.io/github/stars/irahulcse/A-Complete-Guide-To-Flutter.svg?style=social&label=Star)](https://github.com/irahulcse/A-Complete-Guide-To-Flutter) [![GitHub forks](https://img.shields.io/github/forks/irahulcse/A-Complete-Guide-To-Flutter.svg?style=social&label=Fork)](https://github.com/irahulcse/A-Complete-Guide-To-Flutter/fork)
